@@ -6,9 +6,10 @@
     <meta charset="utf-8">
 
     <title>MAD LIBS</title>
-    <meta name="description" content="Theus de Zeeuw">
+    <meta name="description" content="Aya Mohammad">
     <meta name="author" content="SitePoint">
     <meta name=”viewport” content=”width=device-width, initial-scale=1.0″ />
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Permanent+Marker" rel="stylesheet">
 
     <link rel="stylesheet" href="opdracht.css">
 
@@ -22,7 +23,7 @@
             <a href="opdracht.html">Er heerst paniek...</a>
             <a href="opdracht_onkunde.html">Onkunde</a>
         </div>
-        <h2>Onkunde</h2>
+        <h2><b>Onkunde</b></h2>
         <?php
             echo "<p>", "Er zijn mensen die niet kunnen ", $_POST["vraag_onkunde1"], ". Neem nou ", $_POST["vraag_onkunde2"], ". Zelfs met de hulp <br>
             van een ", $_POST["vraag_onkunde4"], " of zelfs ", $_POST["vraag_onkunde3"], " kan meneer ", $_POST["vraag_onkunde2"], " niet ", $_POST["vraag_onkunde1"], ". <br>";
@@ -32,9 +33,9 @@
             
         ?>       
         <div class="footer">
-            <p>© Gemaakt door: Aya Mohammad</p>
+            <p>© 2019, Aya Mohammad</p>
         </div>
-        </div>
+    </div>
 </body>
 
 </html>

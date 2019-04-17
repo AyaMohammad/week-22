@@ -3,12 +3,12 @@
 }
 
 .formulier{
-    margin-left: 200px;
-    border: 2px double red;
+    margin-left: 450px;
+    border: 2px double black;
     height: 500px;
-    width: 400px
+    width: 400px;
 }
 
 .naam input, .e-mail input{
-    margin-left: 100px; 
+    margin-left: 200px; 
 }

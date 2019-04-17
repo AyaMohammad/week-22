@@ -6,12 +6,12 @@
     <meta charset="utf-8">
 
     <title>lab 1 en 2</title>
-    <meta name="description" content="Theus de Zeeuw">
+    <meta name="description" content="Aya Mohammad">
     <meta name="author" content="SitePoint">
     <meta name=”viewport” content=”width=device-width, initial-scale=1.0″ />
 
     <link rel="stylesheet" href="lab1.css">
-    <!-- <script src="js/scripts.js"></script> -->
+
 </head>
 
 <body>
